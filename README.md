@@ -12,8 +12,8 @@ User should be able to...
 Minimally Viable Product Conditions
 
 1.) Generate asteroid classes that have have varying speeds and approach vectors.
-2.) Generate ship for user(s) that fires lasers (listeners for space bar), rotates left and right (listeners for left and right arrows), and stays static in center of displaly.
-3.) Have styled display that shows following metrics: kills(represented in points per kill), timer and lives left (out of three).
+2.) Generate ship for user(s) that fires lasers (listeners for space bar), rotates left and right 	  (listeners for left and right arrows), and stays static in center of displaly.
+3.) Have styled display that shows following metrics: kills(represented in points per kill), 		timer and lives left (out of three).
 4.) User(s) can select their name and start button starts the game.
 5.) Game ends either when: a. Timer is up
                            b. Ship explodes, or timer runs out.
